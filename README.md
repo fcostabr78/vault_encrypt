@@ -1,3 +1,6 @@
+<img src='https://objectstorage.us-ashburn-1.oraclecloud.com/n/idsvh8rxij5e/b/imagens_git/o/key_chunli.png'/>
+<sub>Photo by Chunli Ju on Unsplash</sub>
+
 # Vault and Encrypt with Oracle Cloud Infrastruture
 
 Requiriments do start
