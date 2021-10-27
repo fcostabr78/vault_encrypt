@@ -9,7 +9,7 @@ OCI Console Web:
 
 **Its important to create policies in OCI for a only group can manipulate and manage secrets, vaults and keys**
 
-Fowlow the example
+Follow the example
 
 ```bash
 allow ... to manage secret-family in tenancy
